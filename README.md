@@ -5,7 +5,7 @@ It includes event materials, outreach campaigns, engagement tools, and templates
 
 ## 🗂 Campaigns & Initiatives
 - **Hands Off: Bill 33 Campaign** — Advocacy-based event series promoting awareness of Bill 33  
-- **Community Care Drive** — Donation and volunteer initiative supporting local communities  
+- **Community Care Drive** — Donation and volunteer initiative supporting local communities (Coming Soon)
 - **Mental Health Serires** — Health and wellness events for TMU students (Coming Soon)
 
 ## 💡 About My Role
