@@ -6,7 +6,7 @@ It includes event materials, outreach campaigns, engagement tools, and templates
 ## 🗂 Campaigns & Initiatives
 - **Hands Off: Bill 33 Campaign** — Advocacy-based event series promoting awareness of Bill 33  
 - **Community Care Drive** — Donation and volunteer initiative supporting local communities  
-- **Mental Health Serires** — Health and wellness events for TMU students
+- **Mental Health Serires** — Health and wellness events for TMU students (Coming Soon)
 
 ## 💡 About My Role
 As VP of Events & Outreach, I oversee community engagement programming, coordinate campus partnerships, and develop creative event materials that foster inclusivity and student empowerment.
