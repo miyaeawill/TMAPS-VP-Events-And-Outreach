@@ -15,7 +15,7 @@ As VP of Events & Outreach, I oversee community engagement programming, coordina
 - Canva (graphic design & templates)  
 - Google Workspace (planning & collaboration)  
 - GitHub (documentation & archival)  
-- Eventbrite & Instagram (promotion & engagement)
+- Eventbrite & Instagram & Tiktok (promotion & engagement)
 - Signal (correspondance)
 
 ---
