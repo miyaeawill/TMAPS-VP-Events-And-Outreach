@@ -8,7 +8,9 @@ This section documents my leadership and reporting work as Vice President of Eve
 This folder contains a curated collection of report back documents highlighting my work and leadership as Vice President of Events and Outreach.
 
 The reports provide structured summaries of initiatives, events, partnerships, and outreach efforts led by the Events and Outreach team. They are designed to communicate outcomes, progress, and key learnings to:
-- The student body  
+- The student body
+- Toronto Metropolitan University
+- Chang School Board
 - Other student unions at Toronto Metropolitan University (TMU)  
 - External partners and collaborators  
 
