@@ -11,6 +11,10 @@ It includes event materials, outreach campaigns, engagement tools, and templates
 ## 💡 About My Role
 As VP of Events & Outreach, I oversee community engagement programming, coordinate campus partnerships, and develop creative event materials that foster inclusivity and student empowerment.
 
+## 📊 Reports
+Contains report back documents summarizing initiatives, outcomes, and engagement efforts shared with the student body, partner unions, and external collaborators.
+
+
 ## 🧰 Tools & Platforms Used
 - Canva (graphic design & templates)  
 - Google Workspace (planning & collaboration)  
